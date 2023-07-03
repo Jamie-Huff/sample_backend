@@ -1,0 +1,18 @@
+{
+  "user1": {
+    "username": "test",
+    "password": "test"
+  },
+  "7e241195-7d53-4cc1-a83b-b4378b741cf2": {
+    "username": "myCoolUserName1",
+    "password": "my_PaSSwoRd"
+  },
+  "f6f4d37b-2ba6-4ebc-84c5-1980a8f3384d": {
+    "username": "myCoolUserName1",
+    "password": "my_PaSSwoRd"
+  },
+  "092ed6c3-1676-492e-88fa-aaf7bc04bcde": {
+    "username": "myCoolUserName1",
+    "password": "my_PaSSwoRd"
+  }
+}
